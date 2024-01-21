@@ -1,5 +1,5 @@
-# Examples and Command of the algorithm
-These are commands and examples used in the algorithm of vertex enumeration.
+# Examples and Command using in our paper
+Here are all commands and examples used in the algorithm in our paper.
 
 The folder "examples" involving the randomly generated example and a simple example.
 
