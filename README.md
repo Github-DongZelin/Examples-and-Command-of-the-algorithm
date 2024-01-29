@@ -17,4 +17,4 @@ The folder "functions_polytope/arrangement" contains algorithms for each method 
 
 The folder "functions_polytope/arrangement_linegraph" combines the functionalities of "functions_linegraph" and "functions_polytope/arrangement". It allows for counting both the vertices in the arrangement and on a feasible region, while also recording the vertices found by each method periodically.
 
-If you have any questions about the command or our paper, please don't hesitate to reach out to us. Detailed illustrations for each file can be found within them. We are available and eager to assist you.
+In each series of example data, we used loops to complete the tasks. However, due to hardware and heat dissipation limitations, the completion time for each individual example may vary. If you have any questions about the command or our paper, please don't hesitate to reach out to us. Detailed illustrations for each file can be found within them. We are available and eager to assist you.
