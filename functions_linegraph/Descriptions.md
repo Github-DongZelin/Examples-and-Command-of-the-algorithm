@@ -1,1 +1,1 @@
-These are algrithms without any modification including reversing along the Criss-Cross rule after complement, we use them in several examples.
+These algorithms enable the periodically record the vertices that have been found. We apply these algorithms in the context of ReLU as an example.
