@@ -1,1 +1,1 @@
-These are algrithms that allowing them to count numerber of vertices on polytope and in arrangement simultaneously and also record those number of vertics periodically, we use them in the example ReLU.
+These algorithms enable the simultaneous recording of the number of vertices on a polytope and the entire arrangement, and they can also periodically record the vertices that have been found. We apply these algorithms in the context of ReLU as an example.
