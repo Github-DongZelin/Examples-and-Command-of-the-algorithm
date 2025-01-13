@@ -1,1 +1,0 @@
-These algorithms are capable of generating a spanning tree rooted at the initial dictionary, which involves reversing according to the Criss-Cross rule after complementing. This process can be beneficial for understanding the algorithm.
